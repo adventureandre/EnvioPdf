@@ -1,0 +1,11 @@
+{
+  "name": "pdf/pdf",
+  "autoload": {
+    "psr-4": {
+      "APP\\": "app/"
+    }
+  },
+  "require": {
+    "dompdf/dompdf": "^1.0"
+  }
+}
